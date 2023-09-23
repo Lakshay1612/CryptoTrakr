@@ -1,6 +1,6 @@
 import { Box, Image, Text } from "@chakra-ui/react";
 import React from "react";
-import bgImage from "../assets/pngwing.com.png";
+import bgImage from "../assets/Coin.png";
 import { motion } from "framer-motion";
 
 const Home = () => {
